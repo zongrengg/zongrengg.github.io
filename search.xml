@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>测试页面</title>
-      <link href="/blog/done/"/>
-      <url>/blog/done/</url>
+      <title>我的一家</title>
+      <link href="/blog/%E6%88%91%E7%9A%84%E5%AE%B6%E4%BA%BA%E4%BB%AC/"/>
+      <url>/blog/%E6%88%91%E7%9A%84%E5%AE%B6%E4%BA%BA%E4%BB%AC/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hi，我是来自湖北省恩施市的黄宗仁，目前在从事物流管理类的工作。很高心认识你"><a href="#Hi，我是来自湖北省恩施市的黄宗仁，目前在从事物流管理类的工作。很高心认识你" class="headerlink" title="Hi，我是来自湖北省恩施市的黄宗仁，目前在从事物流管理类的工作。很高心认识你"></a>Hi，我是来自湖北省恩施市的黄宗仁，目前在从事物流管理类的工作。很高心认识你</h1><p>我出生于恩施市建始县官店镇，这是我美丽的家乡，这里海拔2000，所以冬天是会下雪的，夏天也没有南方那么炎热<br><img src="7.jpg" alt="我的家乡"><br>女子本弱，为母则刚。这可能是对我的母亲最好的描述吧，她总能把我保护的很好。她真诚善良，对身边的每一个人都温柔，这是她的优点，却也是身在这个社会的悲哀。<br><img src="laoniang.png" alt="我的母亲"><br>父爱如山，高大而深沉。他的好从来都是沉默无声的。父亲有时比较寡言，有时又比较风趣，他还比较潮，早已过了不惑之年，还会去玩比较流行的网络游戏RPG，刷段子，看小说，也算有了自己的爱好，没有爱好的生活可真是个噩梦。<br><img src="微信图片_2022091821305414.jpg" alt="我的父亲"><br>这是我家大宝，是个善良的懒猪，自从来了我家后，我一度怀疑我是捡来的…年纪轻轻好好的人不做，为啥要去做猪！！！<br><img src="baoge.jpg" alt="大宝哥"><br>最后一位是我家的特殊成员，它从刚出生就一直跟着我和宝哥，去过江西，广东，湖北。也算是一只有故事的球哥了。<br><img src="qiuge.jpg" alt="球哥"><br>宇宙难以想象，人类多么渺小，希望各位及时行乐，珍惜眼前人。</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 人生 </tag>
+            
+        </tags>
       
     </entry>
     
